@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|c:\\users\\admin\\desktop\\classlibrarykhasanovup\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBA732D-B079-49A5-974C-2A51E9CFD051}|ClassLibraryKhasanovUP.csproj|solutionrelative:comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Add.cs",
+              "RelativeDocumentMoniker": "Add.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Add.cs",
+              "RelativeToolTip": "Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:51.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:49.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:48.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Comment.cs",
+              "RelativeDocumentMoniker": "Comment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Comment.cs",
+              "RelativeToolTip": "Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpkhasanovContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\UpkhasanovContext.cs",
+              "RelativeDocumentMoniker": "UpkhasanovContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\UpkhasanovContext.cs*",
+              "RelativeToolTip": "UpkhasanovContext.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:35.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\ClassLibraryKhasanovUP\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:42:08.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

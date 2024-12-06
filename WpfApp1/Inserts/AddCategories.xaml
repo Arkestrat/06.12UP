@@ -1,0 +1,57 @@
+﻿<Window x:Class="WpfApp1.Inserts.AddCategories"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Inserts"
+        mc:Ignorable="d"
+                Title="AddCategories" Height="300" Width="500">
+    <Grid Background="LightBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0"  Orientation="Horizontal"  Background="GreenYellow" Grid.ColumnSpan="2">
+            <TextBlock Text="Добавление категории" Margin="10 0 0 0" FontSize="20" Width="249" FontFamily="Arial" FontWeight="Bold" Height="29"/>
+            <Button Name="btnGoToTheMainWindow" Content="Перейти на главную" FontWeight="Bold" FontSize="16" HorizontalAlignment="Center" Margin="60 0 0 0" Height="23" Width="178" Click="btnGoToTheMainWindow_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Название категории"
+        Grid.Row="0"
+        Grid.Column="0"
+        HorizontalAlignment="Center"
+        Margin="30" FontSize="14"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <TextBlock Text="Описание"
+        Grid.Row="0"
+        Grid.Column="0"
+        HorizontalAlignment="Center"
+        Margin="30" FontSize="14"/>
+        </StackPanel>
+
+
+        <!-- Поля ввода -->
+        <StackPanel Grid.Row="1" Grid.Column="2">
+            <TextBox Name="TxtCategories"
+            Text="{Binding CategoryName}" Height="29" Width="258" Margin="0 20 0 0"
+                 SelectionChanged="TxtCategories_SelectionChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="2">
+            <TextBox Name="TxtDescription"
+            Text="{Binding Description}" Height="29" Width="258" Margin="0 20 0 0"
+                 SelectionChanged="TxtDescription_SelectionChanged"/>
+        </StackPanel>
+        <!-- Кнопка сохранения -->
+        <StackPanel Grid.Row="3" Grid.Column="2">
+            <Button Name="SaveCategory" Content="Сохранить"  FontWeight="Bold" FontSize="20" Height="33" Width="168" Background="LightSlateGray" Click="SaveCategory_Click" Margin="0 15 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,99 @@
+﻿<Window x:Class="WpfApp1.Inserts.AddAdds"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Inserts"
+        mc:Ignorable="d"
+             Title="AddAdds" Height="500" Width="800">
+    <Grid Background="LightBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0"  Orientation="Horizontal"  Background="GreenYellow" Grid.ColumnSpan="2">
+            <TextBlock Text="Добавление объявления" Margin="10 0 0 0" FontSize="25" Width="319" FontFamily="Arial" FontWeight="Bold" Height="29"/>
+            <Button Name="btnGoToTheMainWindow" Content="Перейти на главную" FontWeight="Bold" FontSize="20" Margin="250 0 0 0" Height="33" Width="206" Click="btnGoToTheMainWindow_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Название"
+            Grid.Row="0"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="30" FontSize="20"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <TextBlock Text="Описание"
+            Grid.Row="0"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="30" FontSize="20"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3">
+            <TextBlock Text="Цена"
+            Grid.Row="0"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="30" FontSize="20"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4">
+            <TextBlock Text="Статус"
+            Grid.Row="0"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="30" FontSize="20"/>
+        </StackPanel>
+        <StackPanel Grid.Row="5">
+            <TextBlock Text="Категория"
+            Grid.Row="0"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="30" FontSize="20"/>
+        </StackPanel>
+
+        <!-- Поля ввода -->
+        <StackPanel Grid.Row="1" Grid.Column="2">
+            <TextBox Name="TxtTitle"
+                Text="{Binding Title}" Height="35" Width="369" Margin="0 20 0 0"
+                     SelectionChanged="TxtTitle_SelectionChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="2">
+            <TextBox Name="TxtDescription"
+                Text="{Binding Description}" Height="35" Width="369" Margin="0 20 0 0"
+                     SelectionChanged="TxtDescription_SelectionChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.Column="2">
+            <TextBox Name="TxtPrice"
+                Text="{Binding Price}" Height="35" Width="369" Margin="0 20 0 0"
+                     SelectionChanged="TxtPrice_SelectionChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Grid.Column="2">
+            <ComboBox Name="cmbStatus" Height="35" Width="369" SelectionChanged="cmbStatus_SelectionChanged" Margin="0 20 0 0">
+                <ComboBoxItem Content="Активно"/>
+                <ComboBoxItem Content="Не активно"/>
+            </ComboBox>
+        </StackPanel>
+
+        <!-- Добавляем ComboBox для категории -->
+        <StackPanel Grid.Row="5" Grid.Column="2">
+            <ComboBox Name="cmbCategory" Height="35" Width="369" Margin="0 20 0 0" SelectionChanged="cmbCategory_SelectionChanged">
+                <!-- Категории будут подгружаться из базы данных или другого источника -->
+
+            </ComboBox>
+        </StackPanel>
+
+        <!-- Кнопка сохранения -->
+        <StackPanel Grid.Row="6" Grid.Column="2">
+            <Button Name="SaveAdds" Content="Сохранить" Height="33" Width="168" FontWeight="Bold" FontSize="20" Background="LightSlateGray" Click="SaveAdds_Click" Margin="0 15 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>

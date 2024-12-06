@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowadds.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowadds.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowadds.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowadds.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\models\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:models\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\inserts\\addadds.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:inserts\\addadds.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\inserts\\addadds.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:inserts\\addadds.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\models\\upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:models\\upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\inserts\\addusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:inserts\\addusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\inserts\\addcategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:inserts\\addcategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowcategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowcategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowglobal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowglobal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\inserts\\addusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:inserts\\addusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\inserts\\addcategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:inserts\\addcategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowcategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowcategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\windows\\windowglobal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:windows\\windowglobal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|c:\\users\\admin\\desktop\\khasanovup \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54F54777-05C0-4320-94EA-AE42FEAE846E}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:10:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAdds.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddAdds.xaml",
+              "RelativeDocumentMoniker": "Inserts\\AddAdds.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddAdds.xaml",
+              "RelativeToolTip": "Inserts\\AddAdds.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:21:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Add.cs",
+              "RelativeDocumentMoniker": "Models\\Add.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Add.cs",
+              "RelativeToolTip": "Models\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:36:42.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:36:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:36:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:36:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowAdds.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowAdds.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\WindowAdds.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowAdds.xaml.cs*",
+              "RelativeToolTip": "Windows\\WindowAdds.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:19:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowAdds.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowAdds.xaml",
+              "RelativeDocumentMoniker": "Windows\\WindowAdds.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowAdds.xaml",
+              "RelativeToolTip": "Windows\\WindowAdds.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:19:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAdds.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddAdds.xaml.cs",
+              "RelativeDocumentMoniker": "Inserts\\AddAdds.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddAdds.xaml.cs",
+              "RelativeToolTip": "Inserts\\AddAdds.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:21:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpkhasanovContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\UpkhasanovContext.cs",
+              "RelativeDocumentMoniker": "Models\\UpkhasanovContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\UpkhasanovContext.cs",
+              "RelativeToolTip": "Models\\UpkhasanovContext.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:27:30.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCategories.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddCategories.xaml.cs",
+              "RelativeDocumentMoniker": "Inserts\\AddCategories.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddCategories.xaml.cs",
+              "RelativeToolTip": "Inserts\\AddCategories.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:23:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowUsers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowUsers.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\WindowUsers.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowUsers.xaml.cs",
+              "RelativeToolTip": "Windows\\WindowUsers.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:20:52.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:33:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WindowGlobal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowGlobal.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\WindowGlobal.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowGlobal.xaml.cs",
+              "RelativeToolTip": "Windows\\WindowGlobal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:17:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WindowCategories.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowCategories.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\WindowCategories.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowCategories.xaml.cs",
+              "RelativeToolTip": "Windows\\WindowCategories.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:18:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUsers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddUsers.xaml.cs",
+              "RelativeDocumentMoniker": "Inserts\\AddUsers.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddUsers.xaml.cs",
+              "RelativeToolTip": "Inserts\\AddUsers.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:24:01.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddUsers.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddUsers.xaml",
+              "RelativeDocumentMoniker": "Inserts\\AddUsers.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddUsers.xaml",
+              "RelativeToolTip": "Inserts\\AddUsers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:23:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddCategories.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddCategories.xaml",
+              "RelativeDocumentMoniker": "Inserts\\AddCategories.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Inserts\\AddCategories.xaml",
+              "RelativeToolTip": "Inserts\\AddCategories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:22:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindowUsers.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowUsers.xaml",
+              "RelativeDocumentMoniker": "Windows\\WindowUsers.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowUsers.xaml",
+              "RelativeToolTip": "Windows\\WindowUsers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:20:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WindowCategories.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowCategories.xaml",
+              "RelativeDocumentMoniker": "Windows\\WindowCategories.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowCategories.xaml",
+              "RelativeToolTip": "Windows\\WindowCategories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:18:10.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WindowGlobal.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowGlobal.xaml",
+              "RelativeDocumentMoniker": "Windows\\WindowGlobal.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\Windows\\WindowGlobal.xaml",
+              "RelativeToolTip": "Windows\\WindowGlobal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:16:48.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T06:10:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\KhasanovUP \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u0432\u0440\u043E\u0434\u0435 \u043A\u0430\u043A\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T18:07:35.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

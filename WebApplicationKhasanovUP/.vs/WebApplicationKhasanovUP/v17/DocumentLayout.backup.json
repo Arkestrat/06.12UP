@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\upkhasanovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|c:\\users\\admin\\desktop\\webapplicationkhasanovup\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE155FD9-2893-4F25-B0A4-A79BC8F55BB1}|WebApplicationKhasanovUP.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:43:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Controllers\\AddController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Controllers\\AddController.cs",
+              "RelativeToolTip": "Controllers\\AddController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:35:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T05:33:43.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Add.cs",
+              "RelativeDocumentMoniker": "Models\\Add.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Add.cs",
+              "RelativeToolTip": "Models\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:38.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "Models\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\Program.cs",
+              "RelativeToolTip": "Models\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:36.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpkhasanovContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\UpkhasanovContext.cs",
+              "RelativeDocumentMoniker": "Models\\UpkhasanovContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\UpkhasanovContext.cs",
+              "RelativeToolTip": "Models\\UpkhasanovContext.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwBsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:33:28.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpkhasanovContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\UpkhasanovContext.cs",
+              "RelativeDocumentMoniker": "UpkhasanovContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WebApplicationKhasanovUP\\UpkhasanovContext.cs",
+              "RelativeToolTip": "UpkhasanovContext.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:32:44.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\bin\Debug\net8.0\ClassLibraryKhasanovUP.deps.json
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\bin\Debug\net8.0\ClassLibraryKhasanovUP.runtimeconfig.json
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\bin\Debug\net8.0\ClassLibraryKhasanovUP.dll
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\bin\Debug\net8.0\ClassLibraryKhasanovUP.pdb
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.AssemblyInfo.cs
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.dll
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\refint\ClassLibraryKhasanovUP.dll
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.pdb
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ClassLibraryKhasanovUP.genruntimeconfig.cache
+C:\Users\admin\Desktop\ClassLibraryKhasanovUP\obj\Debug\net8.0\ref\ClassLibraryKhasanovUP.dll
